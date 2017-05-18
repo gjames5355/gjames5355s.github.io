@@ -8,7 +8,7 @@ var changeColor = function changeColor(colorButton) {
 	var red = document.getElementById('red').value;
 	var green = document.getElementById('green').value;
 	var blue = document.getElementById('blue').value;
-}
+
 
 
 
@@ -34,3 +34,4 @@ var changeColor = function changeColor(colorButton) {
 // 6. Use .style.background to change the background of #wrapper to colorStr
 
 	wrapper.style.background = 'colorStr';
+}
